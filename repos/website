@@ -1,1 +1,2 @@
 [website (master)]$ touch index.html
+git diff foo bar
